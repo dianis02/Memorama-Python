@@ -1,4 +1,4 @@
-# Proyecto1-Python-
+# Memorama-Python
 Creación de un memora con persistencia de los usuarios
 
 Ejecutar con:
@@ -52,9 +52,5 @@ Para romper ambos ciclos del menu, cuando la opción es igual a salir,
 rompemos el primer ciclo y utilizamos un booleano para entrar a una condicional
 y romper el otro ciclo y finalizar el programa.
 
-
-
-usuarios ya creados:
-usuario:Diana------password:0210
-usuario:Isabel-----password:021097
+usuario ya creado
 usuario:Nelly------password:0611
